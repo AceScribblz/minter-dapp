@@ -2,7 +2,7 @@ const contractAddress = "0x32388fA29B48195f7520ee1D98b6502Ed7b65780"; //Replace 
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to Littlton!!";
-const welcome_h2 = "Connect to MetaMask to Get Started";
+const welcome_h2 = "Connect to MetaMask to See Littlton";
 const welcome_p = '4567 Littlz raom Littlton. A small town on a tiny planey in the Scribblverse. 50% goes back to holders.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
