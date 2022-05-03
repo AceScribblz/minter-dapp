@@ -6,7 +6,7 @@ const welcome_h2 = "Connect to MetaMask to See Littlton";
 const welcome_p = '4567 Littlz raom Littlton. A small town on a tiny planey in the Scribblverse. 50% goes back to holders.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
-const h1_public_mint = "Public Minting Open!!";
+const h1_public_mint = "Mint Your Littlz NOW!!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
 const h2_presale_mint = "Public Minting Countdown";
 const p_presale_coming_soon = "These Littlz are taking their time. Stay tuned for updates!";
@@ -18,7 +18,7 @@ const button_presale_coming_soon = "Get on the Whitelist";
 const button_presale_mint_whitelisted = "Mint Your Special NFT";
 const button_presale_mint_not_whitelisted = "Get on the Whitelist";
 const button_presale_already_minted = "Join The Community";
-const button_public_mint = "Mint Your NFT";
+const button_public_mint = "Mint Your Littlz";
 const mint_failed = "Minting failed. 😢 Are you sure you're doing this right?";
 
 const abi = [
